@@ -30,7 +30,7 @@
 
 I would like to recommend 4 food items which i'm really intrested.
 
-|####Item |####Place |####Price |
+| Item | Place | Price |
 | -----| ----- | ----- |
 | Bisibelebath  | Mysur | Rs.350 |
 | Dosa | Ballari | Rs.300 |
