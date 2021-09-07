@@ -1,7 +1,5 @@
 # assignment2-janagam
 
-# assignment2-Janagam
-
 # Srilekha Janagam
 
 ###### Bali Indonesia
