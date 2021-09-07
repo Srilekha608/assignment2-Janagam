@@ -38,3 +38,9 @@ I would like to recommend 4 food items which i'm really intrested.
 | Samosa | Mangalore | Rs.300 |
 
 ---
+---
+
+# Motivational Quotes
+
+> The secret of getting ahead is getting started.
+> Opportunities don’t happen, you create them.
