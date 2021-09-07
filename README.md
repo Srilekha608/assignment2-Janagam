@@ -42,5 +42,6 @@ I would like to recommend 4 food items which i'm really intrested.
 
 # Motivational Quotes
 
-> The secret of getting ahead is getting started.
-> Opportunities don’t happen, you create them.
+> "The secret of getting ahead is getting started." -*Srilekha Janagam*
+
+> "Opportunities don’t happen, you create them." -*Chris tim*
