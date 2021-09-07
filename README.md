@@ -49,6 +49,9 @@ I would like to recommend 4 food items which i'm really intrested.
 ***
 
 ***
+
+# Algorithm
+
 > Spanning tree has n-1 edges, where n is the number of nodes (vertices).
 
 > From a complete graph, by removing maximum e - n + 1 edges, we can construct a spanning tree.
