@@ -24,3 +24,16 @@
 * Snacks
 
 [About me](./AboutMe.md)
+
+---
+
+ # Famous Food in Karnataka
+
+ Here's the list of few famous food items in Karnataka which they love to have....!!!
+
+|####Items |####Places |####Prices |
+| ----- | -----|-----|
+| Bisibelebath | Mysur | Rs.200 |
+| Dosa | Ballari | Rs.30 |
+| Popcorn Biriyani | Hubli | Rs.300 |
+|  Samosa | Manalore  | Rs.250 |
